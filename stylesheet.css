@@ -378,7 +378,7 @@ tr:nth-child(odd) {
 
 
 footer {
-    background-image: url(images/alt-logo.png);
+    background-image: url(/digital_artefact_original/alt-logo.png);
     background-repeat: no-repeat;
     background-size: 90px;
     background-position: right bottom;
@@ -513,7 +513,7 @@ hr {
 
     footer {
 
-        background-image: url(images/alt-logo.png);
+        background-image: url(/digital_artefact_original/alt-logo.png);
         background-size: 80px;
     }
 
